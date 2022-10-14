@@ -1,0 +1,38 @@
+# This file contains sha256 checksums of optional build dependencies.
+
+4525aa6b0e3cecb57845f4060a7075aafc9ab752bb7b6b4cf8a212d43078e1e4  go1.18.4.src.tar.gz
+315e1a2b21a827c68da1b7f492b5dcbe81d8df8a79ebe50922df9588893f87f0  go1.18.4.darwin-amd64.tar.gz
+04eed623d5143ffa44965b618b509e0beccccfd3a4a1bfebc0cdbcf906046769  go1.18.4.darwin-arm64.tar.gz
+e5244fdcd6b6eaf785dbd8c6e02b4804a4d00409e7edecc63cd59fc8f37c34c5  go1.18.4.freebsd-386.tar.gz
+fb00f8aaffcc80e0a2bd39db1d8e8e21ef0a691c564f7b7601383dd6adad4042  go1.18.4.freebsd-amd64.tar.gz
+418232d905e18ece6cb13c4884bb1c68963d7d3b4d889671b3e5be8bd4059862  go1.18.4.linux-386.tar.gz
+c9b099b68d93f5c5c8a8844a89f8db07eaa58270e3a1e01804f17f4cf8df02f5  go1.18.4.linux-amd64.tar.gz
+35014d92b50d97da41dade965df7ebeb9a715da600206aa59ce1b2d05527421f  go1.18.4.linux-arm64.tar.gz
+7dfeab572e49638b0f3d9901457f0622c27b73301c2b99db9f5e9568ff40460c  go1.18.4.linux-armv6l.tar.gz
+f80acc4dc054ddc89ccc4869664e331bf16e0ac6e07830e94554162e66f66961  go1.18.4.linux-ppc64le.tar.gz
+7e932f36e8f347feea2e706dcd32c1a464b1e5767ab2928ae460a37a975fe4a3  go1.18.4.linux-s390x.tar.gz
+6343010a13ab783e553786b3cc3b4d63080128f61cf1e963505139c71ca66a0d  go1.18.4.windows-386.zip
+dfb93c517e050ba0cfc066802b38a8e7cda2ef666efd634859356b33f543cc49  go1.18.4.windows-amd64.zip
+7d0d7b73592019d276f2bd44ee3cda0d8bd99356fdbf04fdb40c263518108ae4  go1.18.4.windows-arm64.zip
+
+658078aaaf7608693f37c4cf1380b2af418ab8b2d23fdb33e7e2d4339328590e  golangci-lint-1.46.2-darwin-amd64.tar.gz
+81f9b4afd62ec5e612ef8bc3b1d612a88b56ff289874831845cdad394427385f  golangci-lint-1.46.2-darwin-arm64.tar.gz
+943486e703e62ec55ecd90caeb22bcd39f8cc3962a93eec18c06b7bae12cb46f  golangci-lint-1.46.2-freebsd-386.tar.gz
+a75dd9ba7e08e8315c411697171db5375c0f6a1ece9e6fbeb9e9a4386822e17d  golangci-lint-1.46.2-freebsd-amd64.tar.gz
+83eedca1af72e8be055a1235177eb1b33524fbf08bec5730df2e6c3efade2b23  golangci-lint-1.46.2-freebsd-armv6.tar.gz
+513d276c490de6f82baa01f9346d8d78b385f2ae97608f42f05d1f0f1314cd54  golangci-lint-1.46.2-freebsd-armv7.tar.gz
+461a60016d516c69d406dc3e2d4957b722dbe684b7085dfac4802d0f84409e27  golangci-lint-1.46.2-linux-386.tar.gz
+242cd4f2d6ac0556e315192e8555784d13da5d1874e51304711570769c4f2b9b  golangci-lint-1.46.2-linux-amd64.tar.gz
+ff5448ada2b3982581984d64b0dec614dba0a3ea4cab2d6a343c77927fc89f7e  golangci-lint-1.46.2-linux-arm64.tar.gz
+177f5210ef04aee282bfbc6ec519d36af5fb7d2b2c8d3f4ea5e59fdba71b0a27  golangci-lint-1.46.2-linux-armv6.tar.gz
+10dd512a36ee978a1009edbca3ba3af410f0fda8df4d85f0e4793a24213870cc  golangci-lint-1.46.2-linux-armv7.tar.gz
+67779fa517c688c9db1090c3c456117d95c6b92979c623fe8cce8fb84251f21e  golangci-lint-1.46.2-linux-mips64.tar.gz
+c085f0f57bdccbb2c902a41b72ce210a3dfff16ca856789374745ab52004b6ee  golangci-lint-1.46.2-linux-mips64le.tar.gz
+abecef6421499248e58ed75d2938bc12b4b1f98b057f25060680b77bb51a881e  golangci-lint-1.46.2-linux-ppc64le.tar.gz
+134843a8f5c5c182c11979ea75f5866945d54757b2a04f3e5e04a0cf4fbf3a39  golangci-lint-1.46.2-linux-riscv64.tar.gz
+9fe21a9476567aafe7a2e1a926b9641a39f920d4c0ea8eda9d968bc6136337f9  golangci-lint-1.46.2-linux-s390x.tar.gz
+b48a421ec12a43f8fc8f977b9cf7d4a1ea1c4b97f803a238de7d3ce4ab23a84b  golangci-lint-1.46.2-windows-386.zip
+604acc1378a566abb0eac799362f3a37b7fcb5fa2268aeb2d5d954c829367301  golangci-lint-1.46.2-windows-amd64.zip
+927def10db073da9687594072e6a3d9c891f67fa897105a2cfd715e018e7386c  golangci-lint-1.46.2-windows-arm64.zip
+729b76ed1d8b4e2612e38772b211503cb940e00a137bbaace1aa066f7c943737  golangci-lint-1.46.2-windows-armv6.zip
+ea27c86d91e0b245ecbcfbf6cdb4ac0522d4bc6dca56bba02ea1bc77ad2917ac  golangci-lint-1.46.2-windows-armv7.zip
